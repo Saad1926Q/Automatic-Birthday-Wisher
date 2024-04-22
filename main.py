@@ -3,8 +3,8 @@ import datetime as dt
 import random
 import pandas
 
-my_email="saad.ahmed1926q@gmail.com "
-my_password="lfptgthetjstfxjn"
+my_email=" "
+my_password=""
 
 now=dt.datetime.now()
 todays_day=now.day
